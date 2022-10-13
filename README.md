@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example code shows a TestNG implementation of parallel testing on BrowserStack.
+This example code shows a Cypress implementation of parallel testing on BrowserStack.
 
 ## Necessary Tools
 
